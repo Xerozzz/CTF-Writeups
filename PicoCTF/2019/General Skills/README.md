@@ -8,6 +8,23 @@
 - A lot of patience and curiosity
 
 ---
+## Challenges
+- [Lets Warm Up (50 points)](Lets Warm Up(50points))
+- Warmed Up (50 points)
+- 2Warm (50 points)
+- Bases (100 points)
+- First Grep (100 points)
+- Resources (100 points)
+- Strings it (100 points)
+- What's a netcat (100 points)
+- Based (200 points)
+- First Grep: Part II (200 points)
+- Plumbing (200 points)
+- Whats-the-difference (200 points)
+- music (300 points)
+- 1_wanna_b3_a_r0ck5tar (350 points)
+
+---
 ## Lets Warm Up (50 points)
 ### Challenge
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
@@ -192,7 +209,7 @@ This challenge requires a bit of guesswork, googling and experience if you are n
 picoCTF{rrrocknrn0113r}
 
 ---
-## 1_wanna_b3_a_r0ck5tar
+## 1_wanna_b3_a_r0ck5tar (350 points)
 ### Challenge
 I wrote you another song. Put the flag in the picoCTF{} flag format
 
