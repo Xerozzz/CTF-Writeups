@@ -8,7 +8,7 @@
 - A lot of patience and curiosity
 
 ## Challenges
-- [Lets Warm Up (50 points)](##-Lets-Warm-Up-(50points))
+- [Lets Warm Up (50 points)](##-Lets-Warm-Up-(50 points))
 - Warmed Up (50 points)
 - 2Warm (50 points)
 - Bases (100 points)
