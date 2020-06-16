@@ -7,9 +7,8 @@
 - Google
 - A lot of patience and curiosity
 
----
 ## Challenges
-- [Lets Warm Up (50 points)](## Lets Warm Up (50points))
+- [Lets Warm Up (50 points)](##-Lets-Warm-Up-(50points))
 - Warmed Up (50 points)
 - 2Warm (50 points)
 - Bases (100 points)
@@ -24,7 +23,6 @@
 - music (300 points)
 - 1_wanna_b3_a_r0ck5tar (350 points)
 
----
 ## Lets Warm Up (50 points)
 ### Challenge
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
@@ -40,7 +38,6 @@ Go to a Hex to ASCII converter or use the python script below.
 ### Flag
 picoCTF{p}
 
----
 ## Warmed Up (50 points)
 ### Challenge
 What is 0x3D (base 16) in decimal (base 10).
@@ -56,7 +53,6 @@ Go to a Hex to Decimal converter online or use the python script
 ### Flag
 picoCTF{61}
 
----
 ## 2Warm (50 points)
 ### Challenge
 Can you convert the number 42 (base 10) to binary (base 2)?
@@ -72,7 +68,6 @@ Go to a decimal to binary converter online or use the python script below
 ### Flag
 picoCTF{101010}
 
----
 ## Bases (100 points)
 ### Challenge
 What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with bases.
@@ -83,7 +78,6 @@ Flag is encoded with base64. Use online decoder to convert from base64 back.
 ### Flag
 picoCTF{l3arn_th3_r0p35}
 
----
 ## First Grep (100 points)
 ### Challenge
 Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way. You can also find the file in /problems/first-grep_2_04dbf496b78e6c37c0097cdfef734d88 on the shell server.
@@ -94,7 +88,6 @@ Go to "Shell" on the picoctf platform and login. Use `cd /problems/first-grep_2_
 ### Flag
 picoCTF{grep_is_good_to_find_things_bf6aec61}
 
----
 ## Resources (100 points)
 ### Challenge
 We put together a bunch of resources to help you out on our website! If you go over there, you might even find a flag!
@@ -105,7 +98,6 @@ Go to the link and scroll down past the video. It's right there. Use the 2019 on
 ### Flag
 picoCTF{r3source_pag3_f1ag}
 
----
 ## Strings it (100 points)
 ### Challenge
 Can you find the flag in file without running it? You can also find the file in /problems/strings-it_2_865eec66d190ef75386fb14e15972126 on the shell server.
@@ -116,7 +108,6 @@ Go to "Shell" on the picoctf platform and login. Use `cd /problems/strings-it_2_
 ### Flag
 picoCTF{5tRIng5_1T_d5b86184}
 
----
 ## What's a netcat (100 points)
 ### Challenge
 Using netcat (nc) is going to be pretty important. Can you connect to 2019shell1.picoctf.com at port 32225 to get the flag?
@@ -127,7 +118,6 @@ Use the shell provided or your own linux system. Run `nc 2019shell1.picoctf.com 
 ### Flag
 picoCTF{nEtCat_Mast3ry_b1d25ece}
 
----
 ## Based (200 points)
 ### Challenge
 To get truly 1337, you must understand different data encodings, such as hexadecimal or binary. Can you get the flag from this program to prove you are on the way to becoming 1337? Connect with nc 2019shell1.picoctf.com 31615.
@@ -138,7 +128,6 @@ Run `nc 2019shell1.picoctf.com 31615` in the shell or your own linux system. The
 ### Flag
 picoCTF{learning_about_converting_values_502ff297}
 
----
 ## First Grep: Part II (200 points)
 ### Challenge
 Can you find the flag in /problems/first-grep--part-ii_1_4496a9af2273007b52d4a1adec323b76/files on the shell server? Remember to use grep.
@@ -149,7 +138,6 @@ Go to "Shell" on the picoctf platform and login. Use `cd /problems/first-grep--p
 ### Flag
 picoCTF{grep_r_to_find_this_af11356f}
 
----
 ## Plumbing (200 points)
 ### Challenge
 Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to 2019shell1.picoctf.com 21957.
@@ -160,7 +148,6 @@ When you netcat to the given connection, you get spammed by many lines of gibber
 ### Flag
 picoCTF{digital_plumb3r_c1082838}
 
----
 ## Whats-the-difference (200 points)
 ### Challenge
 Can you spot the difference? kitters cattos. They are also available at /problems/whats-the-difference_0_00862749a2aeb45993f36cc9cf98a47a on the shell server
@@ -171,7 +158,6 @@ Can you spot the difference? kitters cattos. They are also available at /problem
 ### Flag
 picoCTF{th3yr3_a5_d1ff3r3nt_4s_bu773r_4nd_j311y_aslkjfdsalkfslkflkjdsfdszmz10548}
 
----
 ## where-is-the-file (200 points)
 ### Challenge
 I've used a super secret mind trick to hide this file. Maybe something lies in /problems/where-is-the-file_1_54878e9f5b7db0ddbaf642cdb5c9b3b5.
@@ -182,7 +168,6 @@ cd into the folder given in the challenge. When you type ls, you may think this 
 ### Flag
 picoCTF{w3ll_that_d1dnt_w0RK_3e782057}
 
----
 ## flag_shop 
 ### Challenge
 There's a flag shop selling stuff, can you buy a flag? Source. Connect with nc 2019shell1.picoctf.com 29250.
@@ -193,7 +178,6 @@ Download the source code. You can see that "total_cost" is given the variable ty
 ### Flag
 picoCTF{m0n3y_bag5_783740a8}
 
----
 ## music (300 points)
 ### Challenge
 I wrote you a song. Put it in the picoCTF{} flag format
@@ -208,7 +192,6 @@ This challenge requires a bit of guesswork, googling and experience if you are n
 ### Flag
 picoCTF{rrrocknrn0113r}
 
----
 ## 1_wanna_b3_a_r0ck5tar (350 points)
 ### Challenge
 I wrote you another song. Put the flag in the picoCTF{} flag format
