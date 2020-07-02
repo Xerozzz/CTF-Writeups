@@ -3,7 +3,7 @@
 ## Things you need
 
 ## Challenges
-- The Numbers
+
 
 ## The Numbers (50 points)
 ### Challenge
