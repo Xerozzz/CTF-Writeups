@@ -9,3 +9,6 @@ A repo for writeups of my attempt at picoCTF 2019!
 - Binary Exploitation
 - Reverse Engineering
 - Web Exploitation
+
+## Status
+Incomplete
